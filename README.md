@@ -82,7 +82,7 @@ You can find the preprocessed feature matrices and labels in the `dataset/` fold
 | All (Combined)          | 0.85 ± 0.01 | 0.808 ± 0.008 | 12.75 ± 1.01 | 17.05 ± 0.63 | 23.74 ± 1.55 | 26.77 ± 0.45 |
 
 <p align="center">
-  <img src="figures/temporal_saliency.png" width="600" alt="Temporal Gradient Saliency"/>
+  <img src="figures/Importance_V2.png" width="600" alt="Temporal Gradient Saliency"/>
 </p>
 
 ---
@@ -90,13 +90,13 @@ You can find the preprocessed feature matrices and labels in the `dataset/` fold
 ## 🧠 Interpretability Examples
 
 <p align="center">
-  <img src="figures/feature_importance_evi_d2m.png" width="750" alt="Feature Importance: EVI and d2m"/>
+  <img src="figures/combined_V2.png" width="750" alt="Feature Importance: EVI and d2m"/>
 </p>
 
 **Fig. 1:** Temporal analysis of EVI (top) and d2m (bottom) feature saliency across all models and regions.
 
 <p align="center">
-  <img src="figures/static_features_xlstm.png" width="700" alt="Static Feature Importance for xLSTM"/>
+  <img src="figures/XLSTM_Static_Feature.png" width="700" alt="Static Feature Importance for xLSTM"/>
 </p>
 
 **Fig. 2:** Static feature importance distributions for xLSTM across all subregions.
