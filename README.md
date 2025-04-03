@@ -78,6 +78,16 @@ Each sample corresponds to one field and is represented as a multivariate time s
 The 4-year mean cotton yield variation within Türkiye, including three geographically distinct regions: from left to right — the Aegean, the Mediterranean, and Southeastern Anatolia. The circles are proportional to the total cotton-growing area in each commune. Aegean cotton is known for its premium textile production, characterized by superior fiber length, strength, and quality, whereas cotton from the Southeastern Anatolia tends to have shorter, slightly coarser fibers, making it more suitable for lower-cost textiles. (c): 10.1109/IGARSS53475.2024.10641107
 </i></div>
 
+### 📊 Yield Distribution by Region and Year
+
+<p align="center">
+  <img src="figures/TR_cotton_yields_5year_v2.png" width="700"/>
+</p>
+
+<div align="center"><i>
+Boxplots of cotton yield (kg/da) from 2019 to 2023 across three regions of Turkey: Aegean, Mediterranean, and Southeastern Anatolia. There are statistically significant differences in the distribution of cotton yields across the three regions (p &lt; 0.001), as well as some differences among years.
+</i></div>
+
 ---
 
 ### 🛰️ Feature Overview
