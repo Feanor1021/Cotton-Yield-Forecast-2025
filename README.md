@@ -14,6 +14,16 @@ This repository contains the implementation of an interpretable deep learning fr
 > ⚠️ At this stage, **only the dataset and model code** are shared.  
 > **Model outputs, performance figures, and scientific conclusions are intentionally excluded** to prevent unauthorized use prior to publication.
 
+### 🔄 Model Workflow Overview
+
+<p align="center">
+  <img src="figures/workflow.png" width="750"/>
+</p>
+
+<div align="center"><i>
+Overall workflow of the proposed xLSTM framework, illustrating the integration of multi-source EO data, preprocessing steps, sequence construction, and yield prediction.
+</i></div>
+
 ---
 
 ## ⚙️ Installation
@@ -57,6 +67,16 @@ This dataset enables field-scale cotton yield estimation across Turkey by integr
 - **Target:** Annual cotton yield (kg/da), obtained from TUIK at commune level and assigned to field polygons via spatial overlay
 
 Each sample corresponds to one field and is represented as a multivariate time series tensor. Features are aggregated into **bi-monthly intervals** (early and late parts of each month) across the phenology window (May–November), yielding fixed-length sequences for deep learning models.
+
+### 🗺️ Regional Yield Variation
+
+<p align="center">
+  <img src="figures/map.png" width="700"/>
+</p>
+
+<div align="center"><i>
+The 4-year mean cotton yield variation within Türkiye, including three geographically distinct regions: from left to right — the Aegean, the Mediterranean, and Southeastern Anatolia. The circles are proportional to the total cotton-growing area in each commune. Aegean cotton is known for its premium textile production, characterized by superior fiber length, strength, and quality, whereas cotton from the Southeastern Anatolia tends to have shorter, slightly coarser fibers, making it more suitable for lower-cost textiles. (c): 10.1109/IGARSS53475.2024.10641107
+</i></div>
 
 ---
 
