@@ -124,7 +124,7 @@ All EO features were extracted via **Google Earth Engine (GEE)** using annual na
 > This dataset enables interpretability-focused deep learning for agricultural forecasting by aligning rich EO data with temporal field-level outcomes.
 
 📌 **Reference for data methodology:**  
-[M. S. Isik, M. F. Celik, and E. Erten, *“Interpretable cotton yield prediction model using Earth observation time series,”* in IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium, 2023, pp. 3442–3445.]([https://ieeexplore.ieee.org/document/10280680](https://ieeexplore.ieee.org/document/10281702))
+[M. S. Isik, M. F. Celik, and E. Erten, *“Interpretable cotton yield prediction model using Earth observation time series,”* in IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium, 2023, pp. 3442–3445.](https://ieeexplore.ieee.org/document/10281702)
 
 
 ---
