@@ -141,4 +141,4 @@ All EO features were extracted via **Google Earth Engine (GEE)** using annual na
 ## 📬 Contact
 
 For questions, feel free to contact:  
-📧 furkan-yardimci1006@gmail.com
+📧 furkanyardimci1006@gmail.com
