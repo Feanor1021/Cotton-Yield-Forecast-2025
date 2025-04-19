@@ -2,7 +2,7 @@
 
 Official implementation of the study:  
 **"Understanding Cotton Yield Drivers Using xLSTM Coupled with Multi-Source Time Series Data"**  
-**Submitted** to **IEEE Geoscience and Remote Sensing Letters (GRSL), 2025**  
+**Submitted** to **MDPI Remote Sensing**, 2025  
 Furkan Yardımcı, Mustafa Serkan Isik, Esra Erten, Alp Erturk
 
 ---
