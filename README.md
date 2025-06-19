@@ -1,7 +1,7 @@
 # Understanding Cotton Yield Drivers Using xLSTM
 
 Official implementation of the study:  
-**"Understanding Cotton Yield Drivers Using xLSTM Coupled with Multi-Source Time Series Data"**  
+**"A Scalable and Generalizable Framework for Crop Yield Prediction with Multi-source Earth Observation Data"**  
 **Submitted**, 2025  
 Furkan Yardımcı, Mustafa Serkan Isik, Esra Erten, Alp Erturk
 
