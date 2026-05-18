@@ -1,9 +1,11 @@
 # Understanding Cotton Yield Drivers Using xLSTM
 
-Official implementation of the study:  
-**"A Scalable and Generalizable Framework for Crop Yield Prediction with Multi-source Earth Observation Data"**  
-**Submitted**, 2025  
-Furkan Yardımcı, Mustafa Serkan Isik, Esra Erten, Alp Erturk
+Official implementation of the study: 
+
+**“xLSTM for Multi-Source Cotton Yield Estimation and Temporal Interpretability Across Agro-Ecological Regions in Türkiye”**  
+**Advances in Space Research**, 2026  
+
+Furkan Yardımcı, Mustafa Serkan Isik, Alp Ertürk, and Esra Erten
 
 ---
 
@@ -124,8 +126,19 @@ All EO features were extracted via **Google Earth Engine (GEE)** using annual na
 > This dataset enables interpretability-focused deep learning for agricultural forecasting by aligning rich EO data with temporal field-level outcomes.
 
 📌 **Reference for data methodology:**  
-[M. S. Isik, M. F. Celik, and E. Erten, *“Interpretable cotton yield prediction model using Earth observation time series,”* in IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium, 2023, pp. 3442–3445.](https://ieeexplore.ieee.org/document/10281702)
+If you use this repository, please cite:
 
+```bibtex
+@article{YARDIMCI2026,
+  title = {xLSTM for Multi-Source Cotton Yield Estimation and Temporal Interpretability Across Agro-Ecological Regions in Türkiye},
+  journal = {Advances in Space Research},
+  year = {2026},
+  issn = {0273-1177},
+  doi = {10.1016/j.asr.2026.05.025},
+  url = {https://www.sciencedirect.com/science/article/pii/S0273117726006599},
+  author = {Furkan Yardımcı and Mustafa Serkan Isik and Alp Ertürk and Esra Erten}
+}
+```
 
 ---
 
